@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kontal Elektronik Kapı Uygulaması</string>
+    <string name="logo">Kontal</string>
+    <string name="loginButton">GİRİŞ</string>
+    <string name="logoutButton">ÇIKIŞ</string>
+    <string name="continueButton">Devam</string>
+    <string name="signupButton">Kayıt Ol</string>
+    <string name="doorButton">Kapı Aç/Kapat</string>
+    <string name="givePermButton">Yetki Ver</string>
+    <string name="name">Ad</string>
+    <string name="surname">Soyad</string>
+    <string name="phone">5xxxxxxxxx</string>
+    <string name="password">********</string>
+    <string name="sifre">Şifre</string>
+    <string name="verifyCode">Doğrulama kodunu giriniz..</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "934394981606",
+    "firebase_url": "https://kontalelektronik-4e17b.firebaseio.com",
+    "project_id": "kontalelektronik-4e17b",
+    "storage_bucket": "kontalelektronik-4e17b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934394981606:android:6101633ef34841f16b5f27",
+        "android_client_info": {
+          "package_name": "com.example.kontalelektronik_kapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934394981606-3d8l4d40ij3h76r84kamhq5jkepda06f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kontalelektronik_kapi",
+            "certificate_hash": "6655441a7b736a1169a9b7cbc6ded997d9baee5d"
+          }
+        },
+        {
+          "client_id": "934394981606-selqr3k4v563n7usq2o83vb3sb63qufj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBib_roNCWR1eLtDagEYFv1GMja0P7aTGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934394981606-selqr3k4v563n7usq2o83vb3sb63qufj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
