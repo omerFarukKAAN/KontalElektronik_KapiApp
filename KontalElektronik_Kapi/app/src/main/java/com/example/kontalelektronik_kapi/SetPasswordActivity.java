@@ -74,7 +74,7 @@ public class SetPasswordActivity extends AppCompatActivity {
 
     private void createUser() {
         Retrofit retrofit = new Retrofit.Builder()
-                .baseUrl("http://34.71.236.81/")
+                .baseUrl("#ServerURL#")
                 .addConverterFactory(GsonConverterFactory.create())
                 .build();
 
